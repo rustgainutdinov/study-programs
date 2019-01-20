@@ -39,7 +39,7 @@ export default {
         userId: data.users_id
       };
       vuexContext.commit("setUserData", userData);
-      Cookies.remove('sid');
+      Cookie.remove('sid');
       Cookie.set('sid', data.session_id);
 
     },

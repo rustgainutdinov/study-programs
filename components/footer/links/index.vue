@@ -39,7 +39,7 @@
         </nuxt-link>
         <nuxt-link
           tag="li"
-          to="/regustration"
+          to="/registrati"
           class="h5"
         >Регистрация
         </nuxt-link>

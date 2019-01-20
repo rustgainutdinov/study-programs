@@ -9,14 +9,14 @@
           to="/login"
           v-show="userAccessRight <= 100"
           class="hidden-lg-and-up"
-        >Регистрация
+        >Вход
         </nuxt-link>
         <nuxt-link
           tag="li"
           to="/register"
           v-show="userAccessRight <= 100"
           class="hidden-lg-and-up"
-        >Вход
+        >Регистрация
         </nuxt-link>
         <li
           @click="logoutUser"

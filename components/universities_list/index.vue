@@ -55,10 +55,6 @@
         border-radius: 5px 5px 0 0;
       }
 
-      .short_title {
-
-      }
-
       .text {
         padding: 20px;
 

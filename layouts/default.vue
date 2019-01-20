@@ -20,8 +20,9 @@
   }
 </script>
 
-<style lang="scss">
-  $mainColor: #3f51b5;
-  $mainColorHover: #5c6bc0;
+<style>
+  .el-row::before {
+    content: none !important;
+  }
 </style>
 

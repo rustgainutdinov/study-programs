@@ -1,7 +1,7 @@
 {
   "name": "navigator",
   "version": "1.0.0",
-  "description": "soem text",
+  "description": "some text",
   "author": "rustgainutdinov",
   "private": true,
   "scripts": {
@@ -15,10 +15,13 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
     "animejs": "^2.2.0",
+    "autoprefixer": "^9.4.5",
     "element-ui": "^2.4.11",
+    "http-server": "^0.11.1",
     "js-cookie": "^2.2.0",
     "material-design-icons": "^3.0.1",
     "nuxt": "^2.3.4",
+    "postcss-loader": "^3.0.0",
     "vue-resize": "^0.4.5"
   },
   "devDependencies": {

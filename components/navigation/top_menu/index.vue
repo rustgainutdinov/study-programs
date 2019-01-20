@@ -234,13 +234,15 @@
       .search-bar {
         display: flex;
         justify-content: center;
-        flex-grow: 1;
         height: 50px;
+        flex-grow: 1;
+        -webkit-box-flex: 1;
+        -webkit-flex-grow: 1;
+        -ms-flex-positive: 1;
         padding: 0 30px;
 
         .input-search {
-          width: 100px;
-          flex-grow: 1;
+          width: 100%;
 
           .el-input__inner {
             height: 50px;
