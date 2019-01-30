@@ -8,6 +8,9 @@
         style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
         viewBox="0 0 1000 1000">
       <g id="Layer_x0020_1">
+        <path class="fil0 display-none large-circle-path" d="M934 500c0,240 -194,434 -434,434 -240,0 -434,-194 -434,-434 0,-240 194,-434 434,-434 240,0 434,194 434,434z"/>
+        <path class="fil0 display-none medium-circle-path" d="M840 500c0,188 -152,340 -340,340 -188,0 -340,-152 -340,-340 0,-188 152,-340 340,-340 188,0 340,152 340,340z"/>
+        <path class="fil0 display-none small-circle-path" d="M755 500c0,141 -114,255 -255,255 -141,0 -255,-114 -255,-255 0,-141 114,-255 255,-255 141,0 255,114 255,255z"/>
         <circle class="fil_icon_1 icon_1" cx="65" cy="71" r="38"/>
         <circle class="fil_icon_2 icon_2" cx="71" cy="926" r="38"/>
         <circle class="fil_icon_3 icon_3" cx="923" cy="79" r="38"/>
@@ -35,9 +38,6 @@
           <polygon class="fil_icon_13 icon_4" points="928,897 927,897 927,897 928,897 "/>
           <polygon class="fil_icon_13 icon_4" points="929,897 929,897 928,897 928,897 "/>
           <path class="fil_icon_13 icon_4" d="M953 926c1,0 1,0 2,-1 0,0 1,0 1,-1 0,-1 0,-1 -1,-1 0,0 0,0 0,0l0 -1 -7 -12 -3 2 -6 3 6 11 8 0zm-8 1l-7 0 0 -6 -11 11 11 11 0 -6 10 0c1,0 2,-1 3,-2l5 -8c0,-1 0,-2 0,-2 0,0 0,1 -1,1 0,0 -1,1 -2,1l-8 0zm-21 -35c-1,0 -1,-1 -1,-1 -1,0 -2,0 -2,0 -1,0 -1,1 -1,1 0,0 0,0 0,0l-1 1 -6 11 3 2 6 3 6 -10 -4 -7zm17 8l-5 -8c0,-1 -2,-2 -3,-2l-10 0c0,0 0,0 -1,0l0 1c1,-1 1,0 1,0 1,0 1,0 1,1l4 7 4 6 -5 3 14 3 4 -14 -4 3zm-31 33c0,1 0,1 0,2 0,0 0,1 1,1 0,0 0,1 1,1 0,0 0,0 0,0l1 0 13 0 0 -4 0 -7 -12 0 -4 7zm-2 2c0,0 1,1 1,1 0,0 0,0 0,0 0,-1 0,-1 0,-1 0,-1 0,-1 0,-2l4 -7 4 -6 4 3 -4 -14 -14 4 5 2 -5 8c0,1 0,3 0,4l5 8z"/>
-        <circle class="fil0 display-none large-circle-path" cx="500" cy="500" r="434"/>
-        <circle class="fil0 display-none medium-circle-path" cx="500" cy="500" r="340"/>
-        <circle class="fil0 display-none small-circle-path" cx="500" cy="500" r="255"/>
         <path class="fil0 str1 circle" d="M500 934c-240,0 -434,-194 -434,-434 0,-240 194,-434 434,-434 240,0 434,194 434,434" style="transform-origin: center center"/>
         <path class="fil0 str1 circle" d="M500 840c188,0 340,-152 340,-340 0,-188 -152,-340 -340,-340 -188,0 -340,152 -340,340" style="transform-origin: center center"/>
         <path class="fil0 str1 circle" d="M500 245c-141,0 -255,114 -255,255 0,141 114,255 255,255 141,0 255,-114 255,-255" style="transform-origin: center center"/>
@@ -90,6 +90,7 @@
 
 
         var largeCirclePath = anime.path('.kopernik .large-circle-path');
+        console.log(largeCirclePath('x'));
         var largeCirclePathAnime = anime({
           targets: '.kopernik .large-circle-elements',
           strokeDashoffset: [anime.setDashoffset, 0],

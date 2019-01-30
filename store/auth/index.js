@@ -48,7 +48,7 @@ export default {
     },
     logoutUser(vuexContext) {
       vuexContext.commit('removeUserData');
-      Cookies.remove('sid');
+      Cookie.remove('sid');
     }
   },
   getters: {
