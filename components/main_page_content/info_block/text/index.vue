@@ -13,7 +13,6 @@
 </template>
 
 <script>
-	import nuxt
 
 	export default {
 		name: "index",

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bc9fa3b-5db0-4c56-bfe5-ae5d10b08bda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/in_developing/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/footer/copyright/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/footer/copyright/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/footer/links/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/footer/links/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/main_page_content/info_block/text/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/main_page_content/info_block/text/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/navigation/top_menu/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/navigation/top_menu/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -102,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/main_page_content/info_block/text/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+            <state relative-caret-position="198">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -280,12 +272,12 @@
       <workItem from="1548498854251" duration="89000" />
       <workItem from="1548824882749" duration="1866000" />
       <workItem from="1561975594667" duration="3326000" />
-      <workItem from="1562503494754" duration="1596000" />
+      <workItem from="1562503494754" duration="1808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8106000" />
+    <option name="totallyTimeSpent" value="8318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -512,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/main_page_content/info_block/text/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        <state relative-caret-position="198">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
