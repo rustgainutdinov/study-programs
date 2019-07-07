@@ -22,7 +22,7 @@
         </nuxt-link>
         <nuxt-link
           tag="li"
-          to="/"
+          to="/in_developing"
           class="h5"
         >Для вузов
         </nuxt-link>
@@ -39,13 +39,13 @@
         </nuxt-link>
         <nuxt-link
           tag="li"
-          to="/registrati"
+          to="/register"
           class="h5"
         >Регистрация
         </nuxt-link>
         <nuxt-link
           tag="li"
-          to="/"
+          to="/in_developing"
           class="h5"
         >Панель администратора вуза
         </nuxt-link>

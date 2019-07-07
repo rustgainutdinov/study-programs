@@ -73,7 +73,7 @@
 
           <nuxt-link
             tag="li"
-            to="/private_office"
+            to="/in_developing"
             v-show="userAccessRight > 100"
             class="hidden-md-and-down"
           >
