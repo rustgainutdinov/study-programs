@@ -25,7 +25,7 @@
     props: ['programData'],
     data() {
       return {
-        imagePath: 'https://lubava12.ru/get_image?image_path=universities/default/index.jpg&compress_percent=80&compress_width=1000&compress_height=1000'
+        imagePath: 'https://jbl--shop.ru/get_image?image_path=universities/default/index.jpg&compress_percent=80&compress_width=1000&compress_height=1000'
       }
     },
     mounted() {
@@ -57,7 +57,7 @@
           }
         })
           .then(result => {
-            this.imagePath = 'https://lubava12.ru/get_image?image_path=' + path + '&compress_percent=80&compress_width=1000&compress_height=1000';
+            this.imagePath = 'https://jbl--shop.ru/get_image?image_path=' + path + '&compress_percent=80&compress_width=1000&compress_height=1000';
           })
           .catch(result => {
             console.log('error');
