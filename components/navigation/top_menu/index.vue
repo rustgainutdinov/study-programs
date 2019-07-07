@@ -189,6 +189,7 @@
       },
       searchText() {
         var text = this.searchInput;
+				this.searchInput = '';
         this.$router.replace({
           path: '/search', query: {
             search_text: text

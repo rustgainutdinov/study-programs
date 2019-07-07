@@ -2,8 +2,17 @@
   <div class="menu-top-line hidden-xs-only">
     <div class="large-container">
       <ul>
-        <li>Для вузов</li>
-        <li>Панель администратора вуза</li>
+        <nuxt-link
+          tag="li"
+          to="/in_developing"
+        >Для вузов
+        </nuxt-link>
+        <nuxt-link
+          tag="li"
+          to="/in_developing"
+        >Панель администратора вуза
+        </nuxt-link>
+        <li></li>
         <nuxt-link
           tag="li"
           to="/login"
