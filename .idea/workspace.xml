@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bc9fa3b-5db0-4c56-bfe5-ae5d10b08bda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/init-element.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/init-element.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/directions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/store/directions/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="0bc9fa3b-5db0-4c56-bfe5-ae5d10b08bda" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,6 +27,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
+          <entry key="jpg" value="1" />
           <entry key="js" value="28" />
           <entry key="json" value="4" />
           <entry key="md" value="1" />
@@ -43,6 +37,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
+          <entry key="Image" value="1" />
           <entry key="JSON" value="4" />
           <entry key="JavaScript" value="28" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -81,20 +76,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/store/directions/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="1086" column="48" selection-start-line="1086" selection-start-column="48" selection-end-line="1086" selection-end-column="48" />
+            <state relative-caret-position="34">
+              <caret line="1085" column="14" selection-start-line="1085" selection-start-column="6" selection-end-line="1085" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/main_page_content/directions/directions_items/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="156" column="30" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="30" />
+            <state relative-caret-position="472">
+              <caret line="156" column="27" selection-start-line="156" selection-start-column="27" selection-end-line="156" selection-end-column="27" />
+              <folding>
+                <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,13 +139,13 @@
         <option value="$PROJECT_DIR$/components/paid_programs_carousel/item/image/index.vue" />
         <option value="$PROJECT_DIR$/components/footer/copyright/index.vue" />
         <option value="$PROJECT_DIR$/components/navigation/top_menu_line/index.vue" />
-        <option value="$PROJECT_DIR$/components/main_page_content/directions/directions_items/index.vue" />
         <option value="$PROJECT_DIR$/components/main_page_content/search_block/search_input/index.vue" />
         <option value="$PROJECT_DIR$/components/navigation/top_menu/index.vue" />
         <option value="$PROJECT_DIR$/components/main_page_content/info_block/text/index.vue" />
         <option value="$PROJECT_DIR$/plugins/init-element.js" />
         <option value="$PROJECT_DIR$/nuxt.config.js" />
         <option value="$PROJECT_DIR$/store/directions/index.js" />
+        <option value="$PROJECT_DIR$/components/main_page_content/directions/directions_items/index.vue" />
       </list>
     </option>
   </component>
@@ -179,67 +185,13 @@
             <path>
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="main_page_content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="main_page_content" type="462c0819:PsiDirectoryNode" />
-              <item name="directions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="main_page_content" type="462c0819:PsiDirectoryNode" />
-              <item name="directions" type="462c0819:PsiDirectoryNode" />
-              <item name="directions_items" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="directions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="directions" type="462c0819:PsiDirectoryNode" />
-              <item name="_direction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="directions" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,16 +238,15 @@
       <workItem from="1548498854251" duration="89000" />
       <workItem from="1548824882749" duration="1866000" />
       <workItem from="1561975594667" duration="3326000" />
-      <workItem from="1562503494754" duration="5842000" />
+      <workItem from="1562503494754" duration="6412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12352000" />
+    <option name="totallyTimeSpent" value="12922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -614,17 +565,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/main_page_content/directions/directions_items/index.vue">
+    <entry file="file://$PROJECT_DIR$/store/directions/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="156" column="30" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="30" />
+        <state relative-caret-position="34">
+          <caret line="1085" column="14" selection-start-line="1085" selection-start-column="6" selection-end-line="1085" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/store/directions/index.js">
+    <entry file="file://$PROJECT_DIR$/assets/img/logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/main_page_content/directions/directions_items/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="1086" column="48" selection-start-line="1086" selection-start-column="48" selection-end-line="1086" selection-end-column="48" />
+        <state relative-caret-position="472">
+          <caret line="156" column="27" selection-start-line="156" selection-start-column="27" selection-end-line="156" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
