@@ -895,7 +895,7 @@ export default {
         }
       },
       culture: {
-        title: 'Образование и педагогические науки',
+        title: 'Искусство и культура',
         baccalaureate: {
           'Искусствознание': [
             {
@@ -1083,6 +1083,11 @@ export default {
           ],
         }
       },
+			military: {
+				title: 'Военные науки(скрытая информация)',
+				baccalaureate: {},
+				specialty: {},
+			},
       programming: {
         baccalaureate: {
           'Физика': [

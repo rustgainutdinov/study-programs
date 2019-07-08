@@ -1,4 +1,5 @@
 module.exports = {
+	serverMiddleware: [ 'redirect-ssl' ],
 	mode: 'universal',
 	/*
 	** Headers of the page
