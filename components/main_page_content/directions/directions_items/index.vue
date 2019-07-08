@@ -154,7 +154,7 @@
             iconName: 'person',
             title: 'Военные науки',
             text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda eius modi, natus quam rerum velit.',
-            link: 'mathematics'
+            link: 'military'
           },
           {
             setBackground: {
