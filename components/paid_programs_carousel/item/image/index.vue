@@ -10,7 +10,7 @@
     props: ['itemData'],
     data() {
       return {
-        imagePath: 'https://jbl--shop.ru/get_image?image_path=universities/default/index.jpg&compress_percent=80&compress_width=600&compress_height=600'
+        imagePath: 'https://образовательные-программы.рф/get_image?image_path=universities/default/index.jpg&compress_percent=80&compress_width=600&compress_height=600'
       }
     },
     methods: {
@@ -22,7 +22,7 @@
           }
         })
           .then(result => {
-            this.imagePath = 'https://jbl--shop.ru/get_image?image_path=' + path + '&compress_percent=80&compress_width=500&compress_height=500';
+            this.imagePath = 'https://образовательные-программы.рф/get_image?image_path=' + path + '&compress_percent=80&compress_width=500&compress_height=500';
           })
           .catch(result => {
             console.log('error');

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bc9fa3b-5db0-4c56-bfe5-ae5d10b08bda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/paid_programs_carousel/item/image/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/paid_programs_carousel/item/image/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/universities_list/item/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/universities_list/item/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/university_card/top_block/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/university_card/top_block/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,7 +37,7 @@
           <entry key="js" value="32" />
           <entry key="json" value="5" />
           <entry key="md" value="1" />
-          <entry key="vue" value="44" />
+          <entry key="vue" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -46,7 +47,7 @@
           <entry key="JSON" value="5" />
           <entry key="JavaScript" value="32" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Vue.js" value="44" />
+          <entry key="Vue.js" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -56,7 +57,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="42" />
+          <entry key="js" value="43" />
           <entry key="json" value="6" />
           <entry key="vue" value="340" />
         </counts>
@@ -64,7 +65,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="6" />
-          <entry key="JavaScript" value="42" />
+          <entry key="JavaScript" value="43" />
           <entry key="Vue.js" value="340" />
         </counts>
       </usages-collector>
@@ -72,11 +73,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nuxt.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="366">
+              <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/universities_list/item/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -141,7 +151,12 @@
     <findStrings>
       <find>sendSearchResult</find>
       <find>scss</find>
+      <find>jbl-</find>
+      <find>https://jbl--shop.ru</find>
     </findStrings>
+    <replaceStrings>
+      <replace>http://rgajnuad.beget.tech</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
@@ -161,7 +176,6 @@
         <option value="$PROJECT_DIR$/components/footer/links/index.vue" />
         <option value="$PROJECT_DIR$/pages/private_office/index.vue" />
         <option value="$PROJECT_DIR$/pages/in_developing/index.vue" />
-        <option value="$PROJECT_DIR$/components/universities_list/item/index.vue" />
         <option value="$PROJECT_DIR$/components/university_card/top_block/index.vue" />
         <option value="$PROJECT_DIR$/components/paid_programs_carousel/item/image/index.vue" />
         <option value="$PROJECT_DIR$/components/footer/copyright/index.vue" />
@@ -173,6 +187,7 @@
         <option value="$PROJECT_DIR$/store/directions/index.js" />
         <option value="$PROJECT_DIR$/components/main_page_content/directions/directions_items/index.vue" />
         <option value="$PROJECT_DIR$/nuxt.config.js" />
+        <option value="$PROJECT_DIR$/components/universities_list/item/index.vue" />
       </list>
     </option>
   </component>
@@ -293,12 +308,12 @@
       <workItem from="1548824882749" duration="1866000" />
       <workItem from="1561975594667" duration="3326000" />
       <workItem from="1562503494754" duration="7337000" />
-      <workItem from="1578400667380" duration="1826000" />
+      <workItem from="1578400667380" duration="3060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15673000" />
+    <option name="totallyTimeSpent" value="16907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -317,7 +332,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31084338" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31084338" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -462,13 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/universities_list/item/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="65" column="47" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -633,8 +641,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nuxt.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        <state relative-caret-position="366">
+          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/universities_list/item/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
         </state>
       </provider>
     </entry>

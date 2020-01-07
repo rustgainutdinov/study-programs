@@ -31,7 +31,7 @@ module.exports = {
 		'@nuxtjs/axios',
 	],
 	axios: {
-		baseURL: process.env.BASE_URL || 'http://rgajnuad.beget.tech',
+		baseURL: 'https://образовательные-программы.рф/' || 'https://образовательные-программы.рф/',
 		credentials: false
 	},
 
