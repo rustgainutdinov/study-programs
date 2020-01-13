@@ -31,7 +31,7 @@ module.exports = {
 		'@nuxtjs/axios',
 	],
 	axios: {
-		baseURL: 'https://образовательные-программы.рф/' || 'https://образовательные-программы.рф/',
+		baseURL: 'https://уникальные-программы.рф/' || 'https://уникальные-программы.рф/',
 		credentials: false
 	},
 

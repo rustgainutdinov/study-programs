@@ -51,7 +51,7 @@
     props: ['itemData'],
     data() {
       return {
-        imagePath: 'https://образовательные-программы.рф/get_image?image_path=universities/default/index.jpg&compress_percent=90&compress_width=1000&compress_height=300'
+        imagePath: 'https://уникальные-программы.рф/get_image?image_path=universities/default/index.jpg&compress_percent=90&compress_width=1000&compress_height=300'
       }
     },
     methods: {
@@ -63,7 +63,7 @@
           }
         })
           .then(result => {
-            this.imagePath = 'https://образовательные-программы.рф/get_image?image_path=' + path + '&compress_percent=90&compress_width=1000&compress_height=400';
+            this.imagePath = 'https://уникальные-программы.рф/get_image?image_path=' + path + '&compress_percent=90&compress_width=1000&compress_height=400';
           })
           .catch(result => {
             console.log('error');
